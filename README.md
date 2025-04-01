@@ -1,4 +1,4 @@
-## Stratum for YiiMP
+p## Stratum for YiiMP
 with more then 100 algo support
 https://github.com/msy2008/yiimp
 
